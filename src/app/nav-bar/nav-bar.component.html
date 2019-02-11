@@ -1,0 +1,17 @@
+<mat-toolbar color="primary">
+    <span>Inside Out</span>
+    <span class="spacer"></span>
+    <button mat-icon-button [matMenuTriggerFor]="menu"><mat-icon class="icon">account_circle</mat-icon></button>
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item>
+        <mat-icon>person_add</mat-icon>
+        <span>Create an account</span>
+      </button>
+      <button mat-menu-item (click)="signOut()">
+        <mat-icon>person_outline</mat-icon>
+        <span>Sign out</span>
+      </button>
+    </mat-menu>
+    <button mat-icon-button><mat-icon class="icon">info</mat-icon></button>
+    <button mat-icon-button><mat-icon class="icon" (click)="goHome()">home</mat-icon></button>    
+</mat-toolbar>

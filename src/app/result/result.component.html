@@ -1,0 +1,19 @@
+<div style="width: 100%">
+  <h3 mat-subheader style="font-size: 18px; color: rgba(0,0,0,.54); justify-content: space-between">{{name}}
+    <button mat-flat-button style="color: rgba(0,0,0,.54);" (click)="back()">
+        <mat-icon mat-list-icon>navigate_before</mat-icon>
+        &nbsp;Go back
+    </button>
+  </h3>
+    <div style="display: block">
+      <canvas baseChart
+              [datasets]="barChartData"
+              [labels]="barChartLabels"
+              [options]="barChartOptions"
+              [legend]="barChartLegend"
+              [chartType]="barChartType"
+              (chartHover)="chartHovered($event)"
+              (chartClick)="chartClicked($event)"></canvas>
+    </div>
+    <button (click)="randomize()">Update</button>
+  </div>

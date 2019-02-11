@@ -1,0 +1,11 @@
+<mat-list id="position-list">
+  <h3 mat-subheader style="font-size: 20px; color: rgba(0,0,0,.54);">Job positions open</h3>
+  <mat-list-item *ngFor="let post of posts">
+    <!-- <mat-icon mat-list-icon>perm_identity</mat-icon> -->
+    <h4 mat-line style="color: rgba(0,0,0,.54);">{{post.name}}</h4>
+    <p mat-line style="color: rgba(0,0,0,.54);"> Created: {{post.created | date}} </p>
+    <button mat-flat-button color="primary" id="update-button" *ngIf="!post.completed" (click)="goToPost(post.name, false)">Update</button>
+    <button mat-flat-button id="complete-button" *ngIf="post.completed" (click)="goToPost(post.name, true)">Result</button>
+    <mat-divider style="padding-left: 20px;"></mat-divider>
+  </mat-list-item>
+</mat-list>

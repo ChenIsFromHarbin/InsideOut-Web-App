@@ -1,0 +1,34 @@
+#candidate-list{
+    width: 100%;
+}
+
+#update-button{
+    width: 100px;
+}
+
+.button-container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+#upload{
+    width: 200px;
+    margin: 20px;
+    color: #ffffff;
+    background-color: #c5a232;
+}
+
+#record{
+    width: 200px;
+    margin: 20px;
+    color: #ffffff;
+    background-color: #c5a232;
+}
+
+#mark{
+    width: 200px;
+    margin: 20px;
+    color: #ffffff;
+    background-color: #c5a232;
+}

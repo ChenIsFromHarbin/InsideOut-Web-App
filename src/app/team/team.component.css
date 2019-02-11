@@ -1,0 +1,35 @@
+.container{
+    margin: 5px;
+    width: 250px;
+    padding: 10px;
+    background-color: rgba(0,0,0,.03);
+}
+
+.header{
+    margin-bottom: 10px;
+    display: flex;
+}
+
+#section{
+    margin-top: 10px;
+    width: 100%;
+    
+}
+
+.profile{
+    width: 40px;
+    height:40px;
+}
+
+#name{
+    color: rgba(0,0,0,.54);
+    font-size: 15px;
+    font-weight:400; 
+    margin: 0px 0px 0px 10px;
+    align-self: center;
+}
+#trait{
+    color: rgba(0,0,0,.54);
+}
+
+
