@@ -16,32 +16,32 @@ export class TeamComponent implements OnInit {
   members: TeamMember[] = [
     {
       name: 'Chen Zhang',
-      traits: ['Openness', 'Conscientiousness', 'Extraversion', 'Agreeableness'],
+      traits: ['Curious', 'Conscientious', 'Extrovert'],
       path: "../../assets/chen.png",
     },
     {
       name: 'Effy Wu',
-      traits: ['Openness', 'Conscientiousness', 'Extraversion', 'Agreeableness'],
+      traits: ['Open to challenge', 'Confident', 'Detail-oriented'],
       path: "../../assets/effy.png",
     },
     {
       name: 'Safura Suleymanova',
-      traits: ['Openness', 'Conscientiousness', 'Extraversion', 'Agreeableness'],
+      traits: ['Purposeful', 'Analytical', 'Motivated'],
       path: "../../assets/safura.png",
     },
     {
       name: 'Shahrukh Suhail',
-      traits: ['Openness', 'Conscientiousness', 'Extraversion', 'Agreeableness'],
+      traits: ['Self-disciplined', 'Creative', '	Expressive'],
       path: "../../assets/shahrukh.png",
     },
     {
       name: 'Suman Dutta',
-      traits: ['Openness', 'Conscientiousness', 'Extraversion', 'Agreeableness'],
+      traits: ['Intellectual', 'Idealistic', 'Cooperative'],
       path: "../../assets/suman.png",
     },
     {
       name: 'Yanan Chen',
-      traits: ['Openness', 'Conscientiousness', 'Extraversion', 'Agreeableness'],
+      traits: ['Flexible', 'Logical', 'Insightful'],
       path: "../../assets/yanan.png",
     }
   ];

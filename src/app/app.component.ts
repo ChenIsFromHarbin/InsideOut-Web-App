@@ -9,15 +9,16 @@ export class AppComponent {
   title = 'inside-out';
   isAuthorized = false;
   showPost = false;
-  showCandidate = false;
+  showCompare = false;
   postName: string;
   isCompleted: boolean;
-  candidateName: string;
   logIn(event){
     this.isAuthorized = true;
   }
   logOut(event){
     this.isAuthorized = false;
+    this.showPost = false;
+    this.showCompare = false;
   }
   postDisplay(event){
     this.postName = event.PositionName;
@@ -27,11 +28,10 @@ export class AppComponent {
   backHome(event){
     if(this.isAuthorized){
       this.showPost = false;
-      this.showCandidate = false;
+      this.showCompare = false;
     }
   }
-  candidateDetail(event){
-    this.candidateName = event.candidateName;
-    this.showCandidate = true;
+  compareDetail(event){
+    this.showCompare = true;
   }
 }

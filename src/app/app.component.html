@@ -1,11 +1,11 @@
 
-<app-nav-bar (authorize)="logOut($event)" (home)="backHome($event)"></app-nav-bar>
+<app-nav-bar (authorize)="logOut($event)" (home)="backHome($event)" [isAuthorized]="isAuthorized"></app-nav-bar>
 <app-login *ngIf="!isAuthorized" (authorize)="logIn($event)"></app-login>
 <div class="page" *ngIf="isAuthorized">
 <app-team></app-team>
 <app-summary *ngIf="!showPost" class="summary" (postInfo)="postDisplay($event)"></app-summary>
 <app-update *ngIf="showPost && (!isCompleted)" class="update" name="{{postName}}" [hasCandidate]="postName==='Java developer'? true: false" (backFromUpdate)="this.showPost=false;"></app-update>
-<app-detail *ngIf="showPost && isCompleted && (!showCandidate)" class="detail" name="{{postName}}" (displayResult)="candidateDetail($event)" (backFromDetail)="this.showPost=false;"></app-detail>
-<app-result *ngIf="showPost && isCompleted && showCandidate" class="result" name="{{candidateName}}" (backFromResult)="this.showCandidate=false;"></app-result>
+<app-detail *ngIf="showPost && isCompleted && (!showCompare)" class="detail" name="{{postName}}" (displayCompare)="compareDetail($event)" (backFromDetail)="this.showPost=false;"></app-detail>
+<app-compare *ngIf="showPost && isCompleted && showCompare" class="compare" (backFromCompare)="this.showCompare=false;"></app-compare>
 </div>
 <router-outlet></router-outlet>

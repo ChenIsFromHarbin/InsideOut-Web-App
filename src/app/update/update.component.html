@@ -5,14 +5,9 @@
         &nbsp;Go back
       </button>
     </h3>
-    <!-- <span>
-      <button mat-flat-button id="back">
-        <mat-icon mat-list-icon>keyboard_backspace</mat-icon>&nbsp;Go Back
-      </button>
-    </span> -->
     <div *ngIf="hasCandidate">
       <mat-list-item *ngFor="let candidate of candidates">
-        <mat-icon mat-list-icon>perm_identity</mat-icon>
+        <mat-icon mat-list-icon>assignment_ind</mat-icon>
         <h4 mat-line style="color: rgba(0,0,0,.54);">{{candidate.name}}</h4>
         <button mat-flat-button color="primary" id="update-button">Edit</button>
         <mat-divider style="padding-left: 20px;"></mat-divider>

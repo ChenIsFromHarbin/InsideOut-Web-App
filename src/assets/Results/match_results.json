@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Ev Williams",
+    "Overall match": 0.6461843006,
+    "Company match": 0.6954952757,
+    "Team match": 0.5968733255,
+    "Teamwork scores": 0.6749827396,
+    "Ability to work under pressure scores": 0.5156278679,
+    "Thinking skills scores": 0.6460749929,
+    "Enthusiasm scores": 0.616049623,
+    "Communication scores": 0.5316314043,
+    "Recommend activities": "Candidate would like to know about on-site library, Area 631, ECF, Amphitheatre movie days."
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Overall match": 0.6430077634,
+    "Company match": 0.6826414251,
+    "Team match": 0.6033741016,
+    "Teamwork scores": 0.6679249047,
+    "Ability to work under pressure scores": 0.5489874513,
+    "Thinking skills scores": 0.6517149154,
+    "Enthusiasm scores": 0.6143752809,
+    "Communication scores": 0.5338679557,
+    "Recommend activities": "Candidate would like to know about on-site library, Area 631, ECF, Amphitheatre movie days."
+  },
+  {
+    "Name": "Kevin Systrom",
+    "Overall match": 0.6349038539,
+    "Company match": 0.6750128136,
+    "Team match": 0.5947948941,
+    "Teamwork scores": 0.6680971022,
+    "Ability to work under pressure scores": 0.5192430976,
+    "Thinking skills scores": 0.6433674434,
+    "Enthusiasm scores": 0.6139662741,
+    "Communication scores": 0.5293005535,
+    "Recommend activities": "Candidate would like to know about on-site library, Area 631, ECF, Amphitheatre movie days."
+  },
+  {
+    "Name": "Daniel Ek",
+    "Overall match": 0.6334237007,
+    "Company match": 0.689684561,
+    "Team match": 0.5771628405,
+    "Teamwork scores": 0.6481472329,
+    "Ability to work under pressure scores": 0.5260564435,
+    "Thinking skills scores": 0.6361026224,
+    "Enthusiasm scores": 0.5764771455,
+    "Communication scores": 0.4990307581,
+    "Recommend activities": "Candidate would like to know about on-site library, ECF, Amphitheatre movie days."
+  }
+]

@@ -7,9 +7,13 @@
         <mat-icon>person_add</mat-icon>
         <span>Create an account</span>
       </button>
-      <button mat-menu-item (click)="signOut()">
+      <button mat-menu-item (click)="signOut()" *ngIf="isAuthorized">
         <mat-icon>person_outline</mat-icon>
         <span>Sign out</span>
+      </button>
+      <button mat-menu-item *ngIf="!isAuthorized">
+        <mat-icon>person</mat-icon>
+        <span>Sign in</span>
       </button>
     </mat-menu>
     <button mat-icon-button><mat-icon class="icon">info</mat-icon></button>

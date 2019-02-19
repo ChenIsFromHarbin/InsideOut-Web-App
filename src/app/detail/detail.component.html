@@ -1,35 +1,69 @@
 <div class="container">
   <h3 mat-subheader style="font-size: 18px; color: rgba(0,0,0,.54);justify-content: space-between">{{name}}
+    <button mat-flat-button style="color: rgba(0,0,0,.54);" (click)="seeCompare()">
+      <mat-icon mat-list-icon>poll</mat-icon>
+      &nbsp;Compare candidates
+    </button>
     <button mat-flat-button style="color: rgba(0,0,0,.54);" (click)="back()">
-        <mat-icon mat-list-icon>navigate_before</mat-icon>
-        &nbsp;Go back
+      <mat-icon mat-list-icon>navigate_before</mat-icon>
+      &nbsp;Go back
     </button>
   </h3>
   <table mat-table [dataSource]="dataSource" matSort class="mat-elevation-z8" style="width: 100%;">
     
-      <ng-container matColumnDef="name">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> Name </th>
-        <td mat-cell *matCellDef="let element"> {{element.name}} </td>
+      <ng-container matColumnDef="Name">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Candidate name </th>
+        <td mat-cell *matCellDef="let element" style="width: 120px;" class="cell-center"> {{element.Name}} </td>
       </ng-container>
     
-      <ng-container matColumnDef="weight">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> Weight </th>
-        <td mat-cell *matCellDef="let element"> {{element.weight}} </td>
+      <ng-container matColumnDef="Overall">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Overall match </th>
+        <td mat-cell *matCellDef="let element" class="cell-center"> {{element.Overall}} </td>
       </ng-container>
     
-      <ng-container matColumnDef="symbol">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> Symbol </th>
-        <td mat-cell *matCellDef="let element"> {{element.symbol}} </td>
+      <ng-container matColumnDef="Company">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Company match </th>
+        <td mat-cell *matCellDef="let element" class="cell-center"> {{element.Company}} </td>
       </ng-container>
 
-      <ng-container matColumnDef="detail">
-          <th mat-header-cell *matHeaderCellDef style="padding-left: 16px;">Details</th>
-          <td mat-cell *matCellDef="let element">
-            <button mat-button color="primary" (click)="seeResult(element.name)">View More</button>
-          </td>
+      <ng-container matColumnDef="Team">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Team match </th>
+        <td mat-cell *matCellDef="let element" class="cell-center"> {{element.Team}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="Teamwork">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Teamwork scores </th>
+        <td mat-cell *matCellDef="let element" class="cell-center"> {{element.Teamwork}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="Pressure">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Ability to work under pressure scores </th>
+        <td mat-cell *matCellDef="let element" class="cell-center"> {{element.Pressure}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="Thinking">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Thinking skills scores </th>
+        <td mat-cell *matCellDef="let element" class="cell-center"> {{element.Thinking}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="Enthusiasm">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Enthusiasm scores </th>
+        <td mat-cell *matCellDef="let element" class="cell-center"> {{element.Enthusiasm}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="Communication">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Communication scores </th>
+        <td mat-cell *matCellDef="let element" class="cell-center"> {{element.Communication}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="Recommend">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Recommend activities </th>
+        <td mat-cell *matCellDef="let element" class="cell-center"> {{element.Recommend}} </td>
       </ng-container>
     
       <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
       <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
     </table>
+    <app-result class="result"></app-result>
+    <!-- <app-compare></app-compare> -->
 </div>

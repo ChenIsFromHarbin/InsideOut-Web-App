@@ -1,0 +1,36 @@
+<div style="width: 100%; margin-bottom: 50px">
+  <h3 mat-subheader style="font-size: 18px; color: rgba(0,0,0,.70); justify-content: space-between">Kevin Systrom and Mark Zuckerberg
+    <button mat-flat-button style="color: rgba(0,0,0,.54);" (click)="back()">
+      <mat-icon mat-list-icon>navigate_before</mat-icon>
+      &nbsp;Go back
+    </button>
+  </h3>
+  <h3 mat-subheader style="font-size: 18px; color: rgba(0,0,0,.54); margin: 0px; padding-bottom: 0px;padding-top: 0px;">Similarity: 0.96</h3>
+  <h3 mat-subheader style="font-size: 18px; color: rgba(0,0,0,.54); margin: 0px;">Both candidates have similar personalities, however Mark Zuckerberg is more perfectionistic, analytical than Kevin Systrom. Also, he/she is less tactful, idealistic.</h3>
+  <h3 mat-subheader style="font-size: 18px; color: rgba(0,0,0,.54); justify-content: center">Personality Drivers</h3>
+  <div style="display: block; margin-left: 50px; margin-right: 50px;">
+    <canvas baseChart
+            [datasets]="barChartData_p"
+            [labels]="barChartLabels"
+            [options]="barChartOptions"
+            [legend]="barChartLegend"
+            [chartType]="horizonBarChartType"
+            (chartHover)="chartHovered($event)"
+            (chartClick)="chartClicked($event)"></canvas>
+  </div>
+  <p style="color:rgba(0,0,0,.54);">Both are likely to desire perfection and a sense of community. Also they are likely to have a desire to get the job done, a desire for skill and efficiency.</p>
+  <p style="color:rgba(0,0,0,.54);">Mark Zuckerberg is more likely to have an urge to achieve, to succeed, and to take on challenges. Also he/she is less likely than Kevin Systrom to enjoy discovering and asserting his/her identity.</p>
+  <h3 mat-subheader style="font-size: 18px; color: rgba(0,0,0,.54); justify-content: center">Decision Making Drivers</h3>
+  <div style="display: block; margin-left: 50px; margin-right: 50px;">
+    <canvas baseChart
+            [datasets]="barChartData_d"
+            [labels]="barChartLabels"
+            [options]="barChartOptions"
+            [legend]="barChartLegend"
+            [chartType]="horizonBarChartType"
+            (chartHover)="chartHovered($event)"
+            (chartClick)="chartClicked($event)"></canvas>
+  </div>
+  <p style="color:rgba(0,0,0,.54);">Both are likely to seek personal success. Also they are likely to show concern for the welfare and interests of others.</p>
+  <p style="color:rgba(0,0,0,.54);">Mark Zuckerberg is less likely to emphasize self-restriction, order, and resistance to change. Also he/she is more likely than Kevin Systrom to seek pleasure and sensuous gratification.</p>
+</div>

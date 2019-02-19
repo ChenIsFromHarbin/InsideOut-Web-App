@@ -1,4 +1,4 @@
-import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
+import { Component, OnInit, } from '@angular/core';
 
 @Component({
   selector: 'app-result',
@@ -6,22 +6,25 @@ import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
   styleUrls: ['./result.component.css']
 })
 export class ResultComponent implements OnInit {
-  @Input() name: string;
-  @Output() backFromResult: EventEmitter<any> = new EventEmitter;
-
   public barChartOptions:any = {
     scaleShowVerticalLines: false,
     responsive: true
   };
-  public barChartLabels:string[] = ['2006', '2007', '2008', '2009', '2010', '2011', '2012'];
+  public barChartLabels:string[] = ['Ev Williams', 'Mark Zuckerberg', 'Kevin Systrom', 'Daniel Ek'];
   public barChartType:string = 'bar';
   public barChartLegend:boolean = true;
  
   public barChartData:any[] = [
-    {data: [65, 59, 80, 81, 56, 55, 40], label: 'Series A'},
-    {data: [28, 48, 40, 19, 86, 27, 90], label: 'Series B'}
+    {data: [0.646,0.643,0.635,0.633], label: 'Overall match'},
+    {data: [0.695,0.683,0.675,0.690], label: 'Company match'},
+    {data: [0.597,0.603,0.595,0.577], label: 'Team match'},
+    {data: [0.675,0.668,0.668,0.648], label: 'Teamwork scores'},
+    {data: [0.516,0.549,0.519,0.526], label: 'Ability to work under pressure scores'},
+    {data: [0.646,0.652,0.643,0.636], label: 'Thinking skills scores'},
+    {data: [0.616,0.614,0.614,0.576], label: 'Enthusiasm scores'},
+    {data: [0.532,0.534,0.529,0.499], label: 'Communication scores'},
   ];
- 
+
   // events
   public chartClicked(e:any):void {
     console.log(e);
@@ -30,32 +33,9 @@ export class ResultComponent implements OnInit {
   public chartHovered(e:any):void {
     console.log(e);
   }
- 
-  public randomize():void {
-    // Only Change 3 values
-    let data = [
-      Math.round(Math.random() * 100),
-      59,
-      80,
-      (Math.random() * 100),
-      56,
-      (Math.random() * 100),
-      40];
-    let clone = JSON.parse(JSON.stringify(this.barChartData));
-    clone[0].data = data;
-    this.barChartData = clone;
-    /**
-     * (My guess), for Angular to recognize the change in the dataset
-     * it has to change the dataset variable directly,
-     * so one way around it, is to clone the data, change it and then
-     * assign it;
-     */
-  }
+
   constructor() { }
 
   ngOnInit() {
-  }
-  back(){
-    this.backFromResult.emit(true);
   }
 }

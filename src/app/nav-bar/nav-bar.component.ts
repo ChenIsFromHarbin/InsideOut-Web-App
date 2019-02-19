@@ -1,4 +1,4 @@
-import { Component, OnInit, Output, EventEmitter } from '@angular/core';
+import { Component, OnInit, Output, EventEmitter, Input } from '@angular/core';
 
 @Component({
   selector: 'app-nav-bar',
@@ -6,6 +6,7 @@ import { Component, OnInit, Output, EventEmitter } from '@angular/core';
   styleUrls: ['./nav-bar.component.css']
 })
 export class NavBarComponent implements OnInit {
+  @Input() isAuthorized: boolean;
   @Output() authorize: EventEmitter<any> = new EventEmitter;
   @Output() home: EventEmitter<any> = new EventEmitter;
   constructor() { }

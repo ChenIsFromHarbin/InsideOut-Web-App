@@ -25,6 +25,7 @@ import { UpdateComponent } from './update/update.component';
 import { ResultComponent } from './result/result.component';
 import { DetailComponent } from './detail/detail.component';
 import { ChartsModule } from 'ng2-charts';
+import { CompareComponent } from './compare/compare.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -34,7 +35,8 @@ import { ChartsModule } from 'ng2-charts';
     SummaryComponent,
     UpdateComponent,
     ResultComponent,
-    DetailComponent
+    DetailComponent,
+    CompareComponent
   ],
   imports: [
     BrowserModule,

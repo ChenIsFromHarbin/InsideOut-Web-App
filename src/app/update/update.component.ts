@@ -17,15 +17,15 @@ export class UpdateComponent implements OnInit {
 
   candidates: Candidate[] = [
     {
-      name: 'Candidate 1',
+      name: 'Wilson Baker',
       hasCandidate: this.hasCandidate,
     },
     {
-      name: 'Candidate 2',
+      name: 'Daisy Harris',
       hasCandidate: this.hasCandidate,
     },
     {
-      name: 'Candidate 3',
+      name: 'Evelyn Moore',
       hasCandidate: this.hasCandidate,
     }
   ];
