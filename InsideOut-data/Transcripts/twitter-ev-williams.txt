@@ -1,0 +1,214 @@
+EV WILLIAMS:​
+​I should do something completely new and different. Maybe I’m just stuck in a rut… 
+In some ways, that didn’t excite me, it felt a little bit derivative of the things I had already done…  
+I actually hesitated because I’d been doing the same thing for so long. 
+​Do I want to actually do this? Is that my thing? That’s a big decision.  
+It’s very valuable to do the thing you’re obsessed with that you just think 
+about all the time. If I have all of this time and intuition that has been built, that’s an investment, that’s actually an asset. But like, not doing this I thought I would regret much more. What excited me originally was just that feeling you get sometimes from technology of 
+the seeming magic to it; you did something, it was just delightful to have this idea in your mind, and it’s on a webpage, when you create something yourself and you’re like, “Oh, 
+wow, I did that.”  
+​It was a very small town. It was around 400, 450 population. Where I grew 
+up, we were actually outside of town, so we drove four miles to school, and there were 
+12 to 14 kids in my class from K through 11. 
+​It was a very isolated experience. It was literally in the middle of cornfields. 
+You knew everybody. Football was the main interest of people that brought the 
+community together, lots of sports, lots of hunting, not much else. And that was my life.  
+My dad had—did have a computer in the ‘80s. He was an early adopter for 
+farm purposes. So he had an IBM PC with some spreadsheet software and different 
+farm software. I tried to figure that out. Didn’t really succeed much. But then in high 
+school, we had some Apple IIs in our computer lab. We had mandatory basic 
+programming when I was a sophomore, and I loved it.  
+
+That was when I was just stricken by, oh my gosh, I can—this works for my brain. I 
+stayed up late. On more than one occasion, the school shut down, the lights were shut 
+off, and the doors were locked while I was still sitting in that computer lab. 
+So, that feeling of flow that you’re really just doing something that is creative, and 
+exciting, and technical, and hard, and that’s when I felt that. 
+​I picked up the second ever issue of Wired on a newsstand. I remember 
+talking about connecting all the brains on the planet, and about the instantaneous 
+publishing of text and ideas, and all these utopian ideals.  
+
+​That got me very excited. And I got it because of playing with bulletin 
+boards. And I had a PC at the time that I would dial into things with, and that just 
+immediately, I found very exciting. 
+ 
+​I have been focused on essentially the same problem throughout most of my career. The Internet was very exciting because of this idea that all these minds were 
+connected. 
+  
+And that there is great stuff in these minds out there in the world somewhere. And the 
+Internet is this big machine that takes certain bits from these minds and puts them in 
+other minds. 
+  
+And so to me that’s like this fascinating possibility, and then these tools that we build are like different approaches to make that machine work. 
+I was trying to think of, what’s the business? What’s the product that I can 
+do on this? So, I was thinking very creatively with what can I create that I actually know 
+how to create? And though I had programmed, I didn’t really know much about how to 
+do that. So, I just said, well, the biggest problem with the Internet is most people don’t 
+know how to use it. So, we need to teach people how to use it.  
+ 
+So, I thought, the way to teach people how to use this is to show them, so I 
+made a video on how to use the Internet — we actually made a VHS tape. And it was 
+just before the web, actually, was taking off. 
+  
+And so, the World Wide Web, of course, makes a brief mention. But a lot of it was 
+command line, how to FTP a file, and how to email with Pine. And it was an incredibly 
+tedious and incredibly amateur how to use the Internet video. That was my first Internet 
+product. ​
+​It was one of those scratch your own itch things. So, I had had a personal 
+website and started reading what people called weblogs at the time. I was like, well, I’m 
+gonna make my EvHead.com into a weblog. And because I knew how to write code and 
+web applications, I wrote a very simple script that let me go and type in a box, and I hit a 
+button, and that was at the top of my homepage. And I remember doing that, and it’s that 
+feeling that we’re all very familiar with now, where you have a thought and you consider 
+putting it on the Internet, and closing the gap to doing that to literally seconds. 
+That’s where the inspiration came from. 
+​That money ran out in late 2000, that was, for us, the beginning of the dark times. 
+I sat the team down and said, “Look, in two weeks, we’re not gonna be able to pay you.” 
+So, essentially, this is the last paycheck we can pay. We had already like skipped one. I 
+told them, “You’re welcome to come back tomorrow. I’m gonna come back.” But none of 
+them came back. That was hard. 
+
+​So, I was at Google a little over a year-and-a-half working on Blogger the 
+whole time—we started to build things that were attempts to make it an aggregation. But 
+our frustration was really, we’re building this software. It’s the easiest way to start 
+blogging. And then people would move off Blogger, because there was no network 
+effect. There was no reason for them to stay there. 
+
+That’s when we started on it more, and we built profiles, and we built links between the 
+profiles.  
+We didn’t build comments into Blogger for a long time. 
+And that actually hurt us as because for some people like it was all about the comments, 
+all about hearing from people. I was like, “Eh, I don't really want to hear from people. I 
+just want to puts some thought out there and read other thoughts.”  
+
+There was a feature that I was really enamored with called NextBlog,  
+was meant to do was drive traffic to blogs, obviously. And there was in theory going to 
+be some intelligence to it, so you could see something related or something that you 
+followed before we even had the word follow. And but the very first version of it was 
+literally some script I wrote where that would go query a database and randomly select a 
+blog out of the thousand most recently updated blogs, and redirect you to it. 
+And so that’s not motivated me, not to say I’m completely antisocial, but this 
+is not how I look to where the most value of online interaction was. 
+
+I thought audio given my experience with blogging I thought, “Oh, well, this is even easier because talking is easier than writing.” 
+And it turned out talking maybe easier than writing, but creating listenable podcasts or 
+listenable audio content is actually much harder than creating readable text.  
+
+​I realized audio was actually a less casual form, if you will, and could be 
+very powerful, but it’s just much harder to do and not within the bounds of what most 
+people can sit down and do even if they had great stuff in their head. 
+
+I don’t know if we called it a marketplace, but we were gonna do discovery 
+and creation, and you know, this big comprehensive thing. And before we launched 
+anything, Apple came out with podcasts integrated into iTunes, which kind of blew our 
+minds, because it was so early. 
+​So, I went to the team and we did this very deliberate process where I said, 
+I don’t know if podcasting or Odeo’s our thing. Who’s got ideas? And we did essentially a 
+hackathon. 
+​A lot of the ideas were in a similar space because we had been toying 
+around with messaging, and SMS, as well as audio. One of the ideas was a group 
+texting type product. But then what became Twitter didn’t have the name Twitter. It was 
+one of the others that Jack and Biz came up with.  
+It just seemed like something. It was simple. It was elegant. It seemed fun.  
+I built a blog for status updates, and it was completely private. I shared it 
+with my team. And I went on this short trip for family purposes. And on the trip, I was 
+sending what essentially were status updates, which is how we thought of tweets at the 
+time before we called them tweets. 
+
+And before we had even built something, or maybe while the team was building 
+something, I just built this prototype using existing technology where I sent status 
+updates to a private blog, and that resonated with me. That felt like something 
+interesting and unique. It was sharing this thing that you didn’t normally share 
+Do we need to actually pivot? Every board meeting, I would present them 
+Twitter and what was going on with Odeo. Odeo was—even though it was going 
+sideways, it had users. I remember realizing at the time that sometimes it’s better to fail 
+than it is to not fail if you’re not gonna, you know, succeed. And Odeo —it had, you 
+know, usage. We couldn’t ignore it. It wasn’t a total failure. And so, we kept iterating on that and thinking, well, maybe there’s something here. 
+I have a thought and now not only is it online but it could be in other 
+people’s brains in seconds instead of somewhere within the next week if someone 
+happens to find my blog or reads the RSS feed. It’s very visceral. And the one example 
+we always referred to is early on and there’d be an earthquake in San Francisco and 
+you’d turn to Twitter. And at times we even experienced a phone buzzing with tweets 
+about the earthquake while still feeling the earthquake. And so that idea of feeling, being connected in real-time, is really the real-time that made all the difference as well as the idea that you are really broadcasting, not publishing. So I think it was just more a pure expression of brains being connected. 
+This came up a lot, of course, when we were doing Twitter, which many 
+people classify as a social network. And I kind of railed against that especially early on 
+when we’re still trying to figure out what all these things were, and Facebook was fairly 
+well-established. Twitter is not a social network. I argued, I argued Twitter is an 
+information network or real-time information network. Social information was a subset of 
+what Twitter provided, and actually it wasn’t the point, some of the people you want to 
+hear from are social connections, but there’s a whole world of other people. 
+
+​There was a talk I gave a year or two into Twitter, where I talked about how 
+at first, we thought the big thing about Twitter as compared to blogging was that it was 
+short, which enabled real time-ness. It enabled mobile-friendly. It was built through SMS. 
+But we invented this follow button, and I think we invented the follow term. In fact, I 
+remember that we had debates about follow. Is it creepy to say you follow someone? 
+And— 
+That’s why although the very first version of Twitter had a concept of “friend”, eventually it was like, no, it’s not “friend”, it’s not two-way, they don’t have to approve you. It’s a follow, subscribe model. And even things like retweets, the design of those got influenced by this idea that it’s about the dissemination of information more than it is connecting with your friends or having social interactions. 
+ 
+And what is interesting is that framing at the time was also, well, Facebook was very 
+much focused on the social. And, of course, all these things expand to do the adjacent 
+thing as well. 
+Eh, I don't really want to hear from people. I just want to put some thoughts out there and rad other thoughts.
+
+It’s about the network. The value is in the network, the value is not in the 
+software that the Internet enables, the value is in the network, because there are so 
+many implications of that. 
+  
+I’m obviously preaching to the choir and talking to the king of networks, but I didn’t 
+realize that, certainly in the Blogger days. 
+ 
+It was an incredible two years that I was CEO. The company in general 
+grew 10x across every measure that we were counting, including ones that maybe we 
+shouldn’t have been. But I was definitely in over my head. It was by far the biggest thing 
+I’d done. The company grew from 30 people to 300 people during that time. I grew an 
+exec team from nothing. And I never considered myself a great manager, and I think I 
+didn’t spend enough time thinking about the people and the pressures that they were 
+under. 
+
+​I underinvested in relationships, I underinvested in the time to really 
+understand what was going on with people around me. And that’s what caused the 
+turmoil. And it the classic lesson of communicate, talk, listen to people. I was obsessed 
+with the product and the strategy and where we were going next, and capturing the 
+opportunity we had. And less on the team. And we had raised a lot of money, and the 
+company was growing, so I assumed the board was happy, and they weren’t telling me 
+otherwise, so I didn’t invest in that either. And that got me into trouble. 
+
+​If you’re not getting feedback, there’s probably some negative feedback that 
+you could be getting. That probably would have helped me a lot. I wasn’t getting any, so 
+I assumed everything was great. 
+
+​There is about a year after I left Twitter and before we started Medium. And 
+my next thought was whether or not I wanted to pursue that opportunity. 
+ 
+And I thought, if I believe in this, this principle that you should actually focus on what you 
+naturally focus on, and really it coming down to impact. 
+​We’re just talking non-social media, that was still published on individual,isolated websites, often with outdated and cumbersome CMS software. 
+  
+That certainly didn’t find its audience efficiently. It didn’t have built-in feedback loops and 
+mechanisms. So, if you’re publishing on the Internet in a few years, it’s gonna make less 
+and less sense to do that on a standalone isolated website that you build from scratch 
+and then try to get people to come to. And even if you get them to come there, they’re 
+not logged in, and any sort of engagement is hard to garner. If you could instead publish 
+into a platform and build an audience, that’s gonna be more efficient and more likely to 
+succeed. 
+
+​That was the opportunity. And because it hadn’t happened yet, there was no  ​
+place that really owned that for a particular type of content. Creating a place where 
+substantive, thoughtful, high quality ideas and stories would reside and find a good 
+audience. 
+
+​We’re five years into Medium now, which is actually longer than I had worked on anything. 
+​When we started Medium five years ago, I told friends who were in the tech 
+business that I was gonna create a place to publish on the web. And they were 
+like—kind of scratched their heads and like, “Mm, isn’t that already a solved problem?” 
+“Well, actually, you know, we think we can create a better solution for that.” 
+ 
+In the marketplace for stories and written content and ideas, you can slave away, and 
+maybe you can garner an audience after a few years, but then if you’re lucky, you’ll get a 
+job. 
+  
+Or if you’re lucky, you’ll get a book deal. And so—and there’s really nothing in between. 
+And so, I think what we really haven’t democratized yet when it comes to the Internet is 
+the ability to compete at a professional level in this form. And we don’t yet know what 
+comes of that because it hasn’t existed yet. But that’s what I’m most excited about. 

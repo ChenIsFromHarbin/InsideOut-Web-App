@@ -1,0 +1,145 @@
+MARK ZUCKERBERG:​ When I was 10, 11, or 12 years old—I used to mostly build 
+games for myself. And I started off by making these terrible games—I made this game I 
+remember about a snowball fight, that I could play with my sisters, and I think the 
+graphics were literally stick figures. But I could get my sisters to play, because they'd 
+prefer playing the game than actually having a snowball fight outside where we grew up 
+in New York.  
+My dad was a dentist. Growing up, one of the neat things was that his 
+dental office was actually connected to our home. The dentists and hygienists needed to 
+share data on the patients. So I built a system where he could communicate with folks 
+across rooms, and can also can communicate with me and my sisters upstairs—and I 
+called it ZuckNet.  
+​Because it was basically our little network, inside the Zuckerberg home, 
+and it was fun. Basically, that was the predecessor to probably a bunch of different social 
+software ideas that I explored over time, but very early on, very early on. And then, of 
+course, AOL Instant Messenger came, and then everyone just used that. 
+I think the strategy of Facebook is to learn as quickly as possible what 
+our community wants us to do—and that requires a culture that encourages people to try 
+things and test things and fail.  
+I took this class, “Rome of Augustus.” And the final exam—they were 
+going to show some piece of art from the Augustan period in Rome, and you had to write 
+an essay on the historical significance. And I was actually coding the first version of 
+Facebook when I should have been studying for that, so a couple of days before the 
+exam, I was like, "Alright, I’m kind of screwed." This isn't something like math, where you 
+could just show up, and figure out how to do the problem on the exam. You actually 
+need to know the context of this, or else you can't write these essays. 
+This isn't something like math, where you could just show up, and 
+figure out how to do the problem on the exam. 
+I built this service where basically anyone in the class could go to it, and it showed you a random piece of art, and you could type in whatever context you 
+thought was important. And then after that, it would show you everything that everyone 
+else in the class had put in. So it was a study tool, but it kind of crowd-sourced exactly 
+what people needed to know for each piece of art. And the professor ended up telling 
+me after that, that the grades on the final were higher than they'd ever been before. And 
+I ended up passing that class. 
+When I was getting started at Harvard, I was really interested in the 
+idea of how people could come together to create an understanding of things that they 
+couldn't do separately—so I built a lot of different tools in my time at Harvard. I built this thing Coursematch—at the beginning of the term, you're trying to figure out what classes you should take. And so basically, downloaded the course catalog, made something so that you could say what courses you were interested in taking. And you could just click 
+through the classes, and it would say who is in them, and who is thinking of taking it. It 
+was all text, so it shouldn’t have been that fascinating, but people would just spend 
+hours browsing this.  People just have such a thirst for understanding what's going on with the people around them in their community—that even something as simple as just understanding context around what courses someone is going to take, ended up being a really interesting thing—much more than you'd think.  
+I've always been very interested in how people communicate. I'm part 
+of the first generation of folks who really grew up with computers and the internet, and 
+that did shape a lot of my childhood, even beyond Zucknet. One of the interesting 
+formative memories that I have of using computers, and thinking about communicating 
+with computers, was I went to this school that was the next town over. So every day, I 
+would take a bus over this bridge to get to school. And at the end of the day, I'd take a 
+bus ride home, and all my friends would be on the other side of the bridge.  
+So in order to communicate with them—we didn’t all have cell phones back then, so I 
+was communicating on AOL Instant Messenger—and all the subtle signaling around 
+"away" messages, and the status updates that you'd have, and idle times—and all these 
+different things. So I grew up being very attuned to all the nuance, and the need for 
+people to control how they were communicating about themselves, and the signals that 
+they were sending, and the importance in how effectively you could communicate and 
+keep in touch with people—even if they were on the other side of a bridge—your whole 
+social community, every day when you went home. That definitely shaped a lot of my 
+philosophy on products that we've now built, around messaging especially, and how that 
+should work.  
+I'd done this prank Facemash, which was one of the only true things 
+covered in the movie. It was not really a predecessor to Facebook, any more than any of 
+these other things were. But it was this prank thing that I did—which was, OK, could you 
+produce this common understanding of who people at the school thought was the most 
+attractive? It's not something I'm very proud of now—it was not my best moment, and 
+pretty mean-spirited, and I wouldn't do it now. But it was another one of these tools.  After I'd built a bunch of these things, I remember the Harvard Crimson was like, "How 
+could someone go build these things in a few days, yet it's going to take the student 
+government two years to build an online Facebook?" So I was like, "OK, that shouldn't 
+be the case. I can pull this stuff together, and make it so that there's a utility that people 
+can understand what's going on with all the students around them at their school—and 
+we can pull this together in a few weeks." So that was kind of the early thing. I wanted it to exist at Harvard, and I was just really interested in this idea of how you could pull communities together to produce collective understandings around things, and wanted to use it for myself. So I built it at Harvard, and then kind of scaled it from there.  
+I did think that someone was going to build a global social platform; I 
+just thought that there was no chance it was going to be us. It wasn't even like I thought 
+about it, and was like, "Oh maybe it'll be us, probably not." It wasn't even a question that 
+I asked—of course it wasn't going to be us. There are all these companies out there that 
+know how to build this stuff—and we weren’t a company. I figured that somewhere in the 
+world, people were doing the real thing, and I was just messing around in my computer 
+science classes. And I didn't realize until we actually got started with it, and kept going, that, hey, this actually was the real thing, and you can keep on scaling it and growing. 
+​We'd seen this funny dynamic where—we talked about how we started 
+it at Harvard, and then we'd launch at Yale, and then all the people at Harvard would be 
+like, "Oh, come on. Them?" And then it's at every step along the way. You go from Yale, 
+and you launch at Columbia, and the people at Yale are like, "Aw really? Those guys?" 
+We’re at Indiana University, and Indiana State launches, and the people at Indiana 
+University are like, "Come on." So we were used to this this dynamic of people assuming 
+that a change is like, "Why are you doing this?" but then coming around pretty quickly.  
+I didn't mean to move out here. I'd been at Harvard for my freshman 
+year, and then the summer between freshman and sophomore year, and then 
+sophomore year is when I started Facebook. Dustin, my co-founder at Facebook, and I 
+wanted to get out of Cambridge for the summer, so we're like, "Alright, where should we 
+go to work on Facebook?" We're like, "Alright, let's go to Silicon Valley. That's this 
+mythical place where all these companies come from." And I remember we explicitly 
+talked about, one day, we might start a company—and this was after we'd started 
+Facebook.  
+So the clear implication was, one day we were going to create a company, but this was 
+obviously not the company that we were going to create. By the end of sophomore year, 
+I think there were about 28 or 30 schools that we had spread to, because literally people 
+were just writing in from schools, saying, "Hey, can we get this at our school?" So we 
+just ranked schools by how many requests we had for it, and then whenever we had 
+enough server capacity, we would just launch at the school that had the most requests 
+to us about wanting it. And so we moved out here for the summer, expecting to go back 
+to school in the fall. We had our first round of investment that Peter Thiel led. 
+And you participated in—so we're grateful for that, and I'm glad that 
+that worked out well for all of us. But I remember we told Peter, we're going to go back to school in the fall. And he clearly just didn't believe us. So he was right, we were wrong. Come fall, we realized that it was just too much work to scale up to hundreds of schools, at that point, while doing a full course load. Harvard lets you take time off, so we’re just like, "All right, we’ll take a term off." And then that kind of just continued.  
+I think when you're building Internet software that you can change 
+every day, I think that there's really something to the strategy of just learn and go as 
+quickly as you can. Even if not every single release is perfect, I think you're going to end up doing better over a year or two than you would be if you just waited to get feedback for a year of all your ideas. So that's really core. I think more than any single product that we're working on at this point, that focus on learning quickly is the strategy of the company.  
+So "move fast," I think, is interesting, because you actually have to be 
+willing to give something up to get it. And the question is, "What are you willing to give 
+up?" And early on, the trade was, "Move fast and break things." The idea was, we will 
+tolerate some amount of bugs and flaws in the service of moving faster and learning 
+what our community wants faster. But we got to a point where it was taking us more time 
+to go back and fix the bugs and issues that we were creating than the speed that we 
+were gaining by going faster.  
+So we're like, "OK, we need a new strategy to enable us to move fast." And what we 
+came up with was: we're going to do this by building the best infrastructure. So an 
+engineer who comes from any company is going to be able to ship their product faster 
+here—and test it better, and move faster, and all these things—at Facebook, than 
+anywhere else in the world. So that's what we mean by "Move fast with stable 
+infrastructure." But again, we don't get it for free—we invest a huge amount in building 
+infrastructure. So I think these values always come down to, what are you willing to give 
+up to get something? Because they're not free—nothing is.  
+​At any given point in time, there isn't just one version of Facebook 
+running, there are probably 10,000. Any engineer at the company can basically decide 
+that they want to test something. There are some rules on sensitive things, but in 
+general, an engineer can test something, and they can launch a version of Facebook not to the whole community, but maybe to 10,000 people or 50,000 people—whatever is 
+necessary to get a good test of an experience. And then, they get a readout of how that 
+affected all of the different metrics and things that we care about. How were people 
+connecting? How were people sharing? Do people have more friends in this version? Of 
+course, business metrics, like how does this cost the efficiency of running the service, 
+how much revenue are we making?  
+
+It can even kick off qualitative studies and ask people how happy they are with this 
+version. And then at the end of that, the engineer can come to their manager, and say, 
+"Hey, here's what I built, these are the results. Do we want to explore this further and do this?" And giving people the tools to be able to go get that data without having to argue whether their idea’s good through layers of management before testing something, frees people up to move quicker. If the thing doesn't work, then we add that to our 
+documentation of all the lessons that we've learned over time. If it does work, then we 
+can incorporate those small changes into the base of what Facebook is—that now 
+everyone else who is trying to build an improvement, that's the new baseline that they 
+need to get against.  
+It creates this mode of running the company where what I do is I figure 
+out what the high-level directions I think we should go in are, who the best people are to 
+work on those things. But then on a day-to-day basis, a lot of the decisions that I'm 
+making are like, "OK, is this going to destroy the company?" Because if not, then let 
+them test it. If the cost of the test isn't going to be super high, then in general we're going to learn a lot more by experimenting and by letting the teams go and explore the things that they think are worth exploring than by having a heavy hand in that.  
+
+And this just gets down to something that I think is pretty personal for 
+me, which is, I'm much more motivated by making sure that we have the biggest impact 
+on the world than by building a business, or making sure we don't fail. I have more fear 
+in my life that we aren't going to maximize the opportunity that we have than that we 
+mess something up and the business goes badly. 
