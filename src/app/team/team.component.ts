@@ -16,32 +16,32 @@ export class TeamComponent implements OnInit {
   members: TeamMember[] = [
     {
       name: 'Chen Zhang',
-      traits: ['Curious', 'Conscientious', 'Extrovert'],
+      traits: ['Enthusiasm', 'Negotiation and persuasion', 'Leadership skills'],
       path: "../../assets/chen.png",
     },
     {
       name: 'Effy Wu',
-      traits: ['Open to challenge', 'Confident', 'Detail-oriented'],
+      traits: ['Willingness to learn', 'Confidence', 'Detail-oriented'],
       path: "../../assets/effy.png",
     },
     {
       name: 'Safura Suleymanova',
-      traits: ['Purposeful', 'Analytical', 'Motivated'],
+      traits: ['Strong work values', 'Thinking skills', 'Perseverance and Motivation'],
       path: "../../assets/safura.png",
     },
     {
       name: 'Shahrukh Suhail',
-      traits: ['Self-disciplined', 'Creative', '	Expressive'],
+      traits: ['Self-management', 'Creativity', 'Teamwork'],
       path: "../../assets/shahrukh.png",
     },
     {
       name: 'Suman Dutta',
-      traits: ['Intellectual', 'Idealistic', 'Cooperative'],
+      traits: ['Thinking skills', 'Creativity', 'Communication'],
       path: "../../assets/suman.png",
     },
     {
       name: 'Yanan Chen',
-      traits: ['Flexible', 'Logical', 'Insightful'],
+      traits: ['Ability to work under pressure', 'Thinking skills', 'Willingness to learn'],
       path: "../../assets/yanan.png",
     }
   ];
